@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zakaria
+- 👋 Hi, I’m Zakariya Mahmoud
 - 👀 I’m interested in  Web Development 
 - 🌱 I’m currently learning .NET Coer, Python Odoo 
 - 💞️ I’m looking to collaborate on making web applications 
